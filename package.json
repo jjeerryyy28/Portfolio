@@ -1,6 +1,6 @@
 {
   "name": "personal-portfolio",
-  "homepage": "https://jjeerryyy28.github.io/Portfolio",
+  "homepage": "https://jjeerryyy28.github.io/PrajwalN",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,6 +26,8 @@
     "react-router-dom": "^6.15.0",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.1",
+    "react-typist": "^2.0.5",
+    "update": "^0.7.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

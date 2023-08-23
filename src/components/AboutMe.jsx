@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import myImage from "../asset/img/myImg.jpg";
 import cvResume from "../asset/resume/Prajwal_Nikhar_Resume.pdf";
 import backgroundMusic from "../asset/music/calm.mp3";
-import "bootstrap-icons/font/bootstrap-icons.css";
 
 import myImg from "../asset/img/myImage.png";
 

@@ -17,6 +17,7 @@ function App() {
         <NavBar />
         <Routes>
           <Route path="/" element={<>
+            <NavBar />
             <Banner />
             <Contacts />
             <Footer />
@@ -29,5 +30,4 @@ function App() {
     </Router>
   );
 }
-
 export default App;

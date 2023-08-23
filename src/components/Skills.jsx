@@ -1,7 +1,4 @@
-import React, { useState, useEffect } from "react";
-import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import colorSharp from "../asset/img/color-sharp.png";
 import videoBg from "../asset/img/asteroids.mp4";
 import js from "../asset/img/js.png";
 import java from "../asset/img/java.png";

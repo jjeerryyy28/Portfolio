@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Col } from "react-bootstrap";
-import videoSource from '../assets/img/clickme.mp4'
+import videoSource from '../asset/img/clickme.mp4'
 
 export const ProjectCard = ({ title, description, imgUrl }) => {
   const [showVideo, setShowVideo] = useState(false);

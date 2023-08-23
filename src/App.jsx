@@ -2,13 +2,13 @@ import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { NavBar } from './component/NavBar';
-import { Banner } from './component/Banner'; 
-import { Skills } from './component/Skills'; 
-import { Projects } from './component/Projects'; 
-import { Contacts } from './component/Contacts';
-import { Footer } from './component/Footer';
-import { About } from './component/AboutMe'; 
+import { NavBar } from './components/NavBar';
+import { Banner } from './components/Banner'; 
+import { Skills } from './components/Skills'; 
+import { Projects } from './components/Projects'; 
+import { Contacts } from './components/Contacts';
+import { Footer } from './components/Footer';
+import { About } from './components/AboutMe'; 
 
 function App() {
   return (

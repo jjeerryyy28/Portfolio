@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import logo from '../assets/img/devdoodlezone.png';
-import navIcon1 from '../assets/img/nav-icon1.svg';
-import navIcon2 from '../assets/img/github.png';
-import navIcon3 from '../assets/img/nav-icon3.svg';
+import logo from '../asset/img/devdoodlezone.png';
+import navIcon1 from '../asset/img/nav-icon1.svg';
+import navIcon2 from '../asset/img/github.png';
+import navIcon3 from '../asset/img/nav-icon3.svg';
 
 export const NavBar = () => {
 

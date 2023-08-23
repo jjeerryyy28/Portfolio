@@ -1,23 +1,23 @@
 import React, { useState, useEffect } from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import colorSharp from "../assets/img/color-sharp.png";
-import videoBg from "../assets/img/asteroids.mp4";
-import js from "../assets/img/js.png";
-import java from "../assets/img/java.png";
-import cplusplus from "../assets/img/c++.png";
-import html from "../assets/img/html.png";
-import css from "../assets/img/css.png";
-import nodejs from "../assets/img/node-js.png";
-import react from "../assets/img/react.png";
-import git from "../assets/img/git.png";
-import figma from "../assets/img/figma.png";
-import mySQL from "../assets/img/mysql.png";
-import typeScript from "../assets/img/typescript.png";
-import jira from "../assets/img/jira.png"
-import github from "../assets/img/github.png"
-import vscode from "../assets/img/vscode.png"
-import intellij from "../assets/img/intellij.png"
+import colorSharp from "../asset/img/color-sharp.png";
+import videoBg from "../asset/img/asteroids.mp4";
+import js from "../asset/img/js.png";
+import java from "../asset/img/java.png";
+import cplusplus from "../asset/img/c++.png";
+import html from "../asset/img/html.png";
+import css from "../asset/img/css.png";
+import nodejs from "../asset/img/node-js.png";
+import react from "../asset/img/react.png";
+import git from "../asset/img/git.png";
+import figma from "../asset/img/figma.png";
+import mySQL from "../asset/img/mysql.png";
+import typeScript from "../asset/img/typescript.png";
+import jira from "../asset/img/jira.png"
+import github from "../asset/img/github.png"
+import vscode from "../asset/img/vscode.png"
+import intellij from "../asset/img/intellij.png"
 
 export const Skills = () => {
   const skillsData = [

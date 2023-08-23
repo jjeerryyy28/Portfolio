@@ -1,10 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { MailchimpForm } from "./MailchimpForm";
-import logo from "../assets/img/devdoodlezone.png";
-import navIcon1 from "../assets/img/nav-icon1.svg";
-import navIcon2 from "../assets/img/nav-icon2.svg";
-import navIcon3 from "../assets/img/nav-icon3.svg";
+import logo from "../asset/img/devdoodlezone.png";
+import navIcon1 from "../asset/img/nav-icon1.svg";
+import navIcon2 from "../asset/img/nav-icon2.svg";
+import navIcon3 from "../asset/img/nav-icon3.svg";
 
 export const Footer = () => {
   return (

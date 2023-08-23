@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PrajwalN/static/css/main.dabe5077.css",
-    "main.js": "/PrajwalN/static/js/main.870ddff9.js",
+    "main.css": "/PrajwalN/static/css/main.4678fa5b.css",
+    "main.js": "/PrajwalN/static/js/main.b0c776d4.js",
     "static/js/787.fb771931.chunk.js": "/PrajwalN/static/js/787.fb771931.chunk.js",
     "static/media/starship_-_71654 (1080p).mp4": "/PrajwalN/static/media/starship_-_71654 (1080p).616757abd5cb4be3ee64.mp4",
     "static/media/calm.mp3": "/PrajwalN/static/media/calm.d6bf2a2fae31578f4321.mp3",
@@ -10,17 +10,14 @@
     "static/media/FoodApp.png": "/PrajwalN/static/media/FoodApp.c5db43d0b0dd6e908f51.png",
     "static/media/myImg.jpg": "/PrajwalN/static/media/myImg.e7cfda612a116eb150f3.jpg",
     "static/media/clickme.mp4": "/PrajwalN/static/media/clickme.482132f96c64af5463f0.mp4",
-    "static/media/color-sharp.png": "/PrajwalN/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/PrajwalN/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/myImage.png": "/PrajwalN/static/media/myImage.8780cab0001a617bd787.png",
     "static/media/pharmacy.png": "/PrajwalN/static/media/pharmacy.a86ac3d9cca4f30df951.png",
     "static/media/main-pizza.jpg": "/PrajwalN/static/media/main-pizza.fb6d47fe20e14a94948c.jpg",
     "static/media/resumeFinder.png": "/PrajwalN/static/media/resumeFinder.441855a8bb0432df680a.png",
     "static/media/banner-bg.png": "/PrajwalN/static/media/banner-bg.cc1273af450504afe755.png",
-    "static/media/bootstrap-icons.woff?": "/PrajwalN/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/header-img.svg": "/PrajwalN/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/Prajwal_Nikhar_Resume.pdf": "/PrajwalN/static/media/Prajwal_Nikhar_Resume.7d1f57eba0d6d50308ed.pdf",
-    "static/media/bootstrap-icons.woff2?": "/PrajwalN/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/CentraNo2-Bold.ttf": "/PrajwalN/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/PrajwalN/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/PrajwalN/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -44,15 +41,15 @@
     "static/media/css.png": "/PrajwalN/static/media/css.b9a50715f6b042e643dc.png",
     "static/media/revicons.woff": "/PrajwalN/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/nav-icon3.svg": "/PrajwalN/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "index.html": "/PrajwalN/index.html",
     "static/media/nav-icon1.svg": "/PrajwalN/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/PrajwalN/index.html",
     "static/media/nav-icon2.svg": "/PrajwalN/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.dabe5077.css.map": "/PrajwalN/static/css/main.dabe5077.css.map",
-    "main.870ddff9.js.map": "/PrajwalN/static/js/main.870ddff9.js.map",
+    "main.4678fa5b.css.map": "/PrajwalN/static/css/main.4678fa5b.css.map",
+    "main.b0c776d4.js.map": "/PrajwalN/static/js/main.b0c776d4.js.map",
     "787.fb771931.chunk.js.map": "/PrajwalN/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dabe5077.css",
-    "static/js/main.870ddff9.js"
+    "static/css/main.4678fa5b.css",
+    "static/js/main.b0c776d4.js"
   ]
 }
